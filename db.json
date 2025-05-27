@@ -83,6 +83,18 @@
       "quantity": 2,
       "userId": "a8e9",
       "productId": "2"
+    },
+    {
+      "id": "4705",
+      "name": "Samsung galaxy 40 ",
+      "price": "55000",
+      "color": "blueish",
+      "category": "mobile",
+      "description": "this is a Samsung product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m40-1.jpg",
+      "quantity": 1,
+      "productId": "1",
+      "userId": "a8e9"
     }
   ],
   "orders": []
